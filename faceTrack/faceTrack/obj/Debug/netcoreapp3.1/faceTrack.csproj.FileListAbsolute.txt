@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\python\arduinoFaceTracking\faceTrack\faceTrack\bin\Debug\netcoreapp3.1\faceTrack.exe
+C:\Users\Pavel\Documents\python\arduinoFaceTracking\faceTrack\faceTrack\bin\Debug\netcoreapp3.1\faceTrack.deps.json
+C:\Users\Pavel\Documents\python\arduinoFaceTracking\faceTrack\faceTrack\bin\Debug\netcoreapp3.1\faceTrack.runtimeconfig.json
+C:\Users\Pavel\Documents\python\arduinoFaceTracking\faceTrack\faceTrack\bin\Debug\netcoreapp3.1\faceTrack.runtimeconfig.dev.json
+C:\Users\Pavel\Documents\python\arduinoFaceTracking\faceTrack\faceTrack\bin\Debug\netcoreapp3.1\faceTrack.dll
+C:\Users\Pavel\Documents\python\arduinoFaceTracking\faceTrack\faceTrack\bin\Debug\netcoreapp3.1\faceTrack.pdb
+C:\Users\Pavel\Documents\python\arduinoFaceTracking\faceTrack\faceTrack\obj\Debug\netcoreapp3.1\faceTrack.csprojAssemblyReference.cache
+C:\Users\Pavel\Documents\python\arduinoFaceTracking\faceTrack\faceTrack\obj\Debug\netcoreapp3.1\faceTrack.AssemblyInfoInputs.cache
+C:\Users\Pavel\Documents\python\arduinoFaceTracking\faceTrack\faceTrack\obj\Debug\netcoreapp3.1\faceTrack.AssemblyInfo.cs
+C:\Users\Pavel\Documents\python\arduinoFaceTracking\faceTrack\faceTrack\obj\Debug\netcoreapp3.1\faceTrack.dll
+C:\Users\Pavel\Documents\python\arduinoFaceTracking\faceTrack\faceTrack\obj\Debug\netcoreapp3.1\faceTrack.pdb
